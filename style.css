@@ -1,0 +1,57 @@
+body {
+    background-color: #eef2f3;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 700px;
+    background-color: white;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    text-align: center;
+}
+
+.details {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 8px;
+}
+
+/* Button Styling */
+.register-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 25px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.register-btn:hover {
+    background-color: #388e3c;
+}
